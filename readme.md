@@ -8,11 +8,11 @@
 
 - objects: Objects are a set of related properties and sub-properties resembling a real life object model. An object can contain multiple data members as well as functions
 
-const person={<br>
+<pre>const person={<br>
     name:"Neeraj",     
     hobbies:["Cricket","Music"],       
     greet=()=>{       
         console.log("Hey");   
            }    
         }
-
+</pre>
