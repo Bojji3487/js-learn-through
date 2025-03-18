@@ -1,0 +1,10 @@
+	Array and object destruvturing--> rest and spread operators
+Ternary
+Optional Chaining
+Map,filter,reduce,sort functions
+
+Event listeners,event bubbling,event capturing,set timeout,setinterval
+
+Asynchronous events-->Callback,promises,promise api
+Async,await
+Try-catch

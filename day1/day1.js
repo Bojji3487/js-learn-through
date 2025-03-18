@@ -10,9 +10,10 @@ let arr=[
   {name:"a" , price:200},
 {name:"b" , price:30}];
 
-// const filteredList=arr.filter((elem)=>{
+// const filteredList=arr.filter(function(elem){
 // return elem.name=="a";
 // });
+// console.log(filteredList)
 
 // console.log(arr)
 // console.log(filteredList)

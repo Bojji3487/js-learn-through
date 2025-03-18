@@ -17,12 +17,12 @@ Idk how useful they would be but bind sounds pretty useful.
 
 ## Array methods
 
-Welp, talking not just about array but methods in js in general....They are one of the biggest reasons jaavscript is so accessible similar to Python. They are prebuilt functions defined to do specific work and come with the javascript package.
+Welp, talking not just about array but methods in js in general....They are one of the biggest reasons javascript is so accessible similar to Python. They are prebuilt functions defined to do specific work and come with the javascript package.
 <br>
 
 ### 1.filter:
 
-Woah. Being able to filter an array without 15 lines of for loop? Gimme that. <br>
+Being able to filter an array without 15 lines of for loop? Gimme that. <br>
 eg. <pre> const arr=[
 {name:"a" , price:200},
 {name:"b" , price:30}];
@@ -32,11 +32,9 @@ return elem.name=="a";
 console.log(arr)
 console.log(filteredList)
 
-This returns:<pre>
+This returns:
 [ { name: 'a', price: 200 }, { name: 'b', price: 30 } ]
 [ { name: 'a', price: 200 } ]
-
-</pre>
 </pre>
 
 ### 2. Map
@@ -145,7 +143,6 @@ A.  A function with a name is known as Named Function Expression.
 5.  Difference b/w Parameters and Arguments ?
 A.  When we creating a function  & put some variabels in this ( ) that is our Parameters.
        For Ex - function ab( param1, param2 ){
-                              console.log("
                       }
        & When we call this function & pass a variabel in this ( ) that is our Arguments
        For Ex - ab( 4, 5 );
@@ -162,3 +159,6 @@ A.   The Ability of use function as value,
                      } 
 
 7. Function are heart of JS. They are called first class citizens or first class functions because they have the ability to be stored in the variables, passed as parameters and arguments. They can also be returned in the function.
+</pre>
+
+
